@@ -1,0 +1,45 @@
+
+User Manual for Recipe Manager Application
+
+Welcome to the User Manual for the Recipe Manager Application! This manual will guide you through the usage of the application, helping you efficiently manage your recipes. Whether you're a seasoned chef or a novice cook, this application will streamline your recipe organization process. Below, you'll find detailed instructions on how to use each feature of the application effectively.
+
+1. Adding a Recipe
+To add a new recipe to your collection, follow these steps:
+
+Click on the "Add Recipe" button in the main window.
+A new window will open, prompting you to enter the details of the recipe, including its name, ingredients, and steps.
+Input the required information and click on the "Add" button to save the recipe.
+2. Listing Recipes
+To view a list of all your saved recipes, do the following:
+
+Click on the "List Recipes" button in the main window.
+A window will appear displaying a list of all your recipes, including their names and total calorie counts.
+3. Viewing a Recipe
+If you want to view the details of a specific recipe, here's what you need to do:
+
+Click on the "View Recipe" button in the main window.
+Select the recipe you want to view from the list.
+The application will display the recipe name, ingredients, steps, and total calorie count.
+4. Filtering Recipes
+To filter your recipes based on specific criteria, follow these steps:
+
+Click on the "Filter Recipes" button in the main window.
+Choose the filtering options, such as ingredient type or calorie range.
+The application will display a filtered list of recipes that match your criteria.
+5. Clearing Recipe Data
+If you want to remove all recipe data from the application, follow these instructions:
+
+Click on the "Clear Data" button in the main window.
+A confirmation message will appear asking if you're sure you want to clear all data.
+Click "Yes" to proceed, and the application will delete all recipe information.
+Tips for Efficient Usage
+
+Make sure to enter accurate details when adding recipes, including ingredient quantities and calorie counts.
+Utilize the filtering feature to quickly find recipes that meet specific dietary requirements or preferences.
+Regularly back up your recipe data to prevent any loss of information.
+Troubleshooting
+
+If you encounter any issues while using the application, such as errors or unexpected behavior, try restarting the application.
+Ensure that you're using the latest version of the application, as updates may contain bug fixes and improvements.
+Conclusion
+Congratulations! You've now mastered the Recipe Manager Application. By following the instructions in this user manual, you'll be able to efficiently organize and manage your recipes with ease. If you have any further questions or need assistance, don't hesitate to reach out to our support team for help. Happy cooking!
